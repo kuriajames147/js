@@ -14,7 +14,10 @@ body {
     padding: 20px;
     text-align: center;
   }
-  
+  p {
+    font-size: 18px;
+    color: red;
+  }
   /* Navigation styling */
   nav ul {
     list-style-type: none;
